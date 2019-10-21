@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1570438664 source:g:\semester 5\game programming\acak huruf\main.cpp
+	<iostream>
+	<string.h>
+	<ctime>
+	<cstdlib>
+	<iomanip>
+
+1569840976 source:e:\semester 5\game programming\acak huruf\main.cpp
+	<iostream>
+	<string.h>
+	<ctime>
+	<cstdlib>
+	<iomanip>
+
+1571045206 source:g:\semester 5\game programming\acak kata\main.cpp
+	<iostream>
+	<string.h>
+	<ctime>
+	<cstdlib>
+	<iomanip>
+

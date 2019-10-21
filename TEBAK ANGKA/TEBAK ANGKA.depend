@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1569235698 source:g:\game programming\tebak angka\main.cpp
+	<iostream>
+	<String>
+	<cstdlib>
+	<ctime>
+
+1571043874 source:g:\semester 5\game programming\tebak angka\main.cpp
+	<iostream>
+	<String>
+	<cstdlib>
+	<ctime>
+
